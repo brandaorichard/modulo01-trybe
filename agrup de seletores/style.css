@@ -1,0 +1,12 @@
+h1, p, li {
+    text-align: center;
+    list-style-type: none;
+}
+
+li:hover {
+    background-color: rgb(224, 199, 57);
+}
+
+body {
+   background-color: #a0a4db; 
+}
